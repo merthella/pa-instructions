@@ -47,7 +47,9 @@ Now, go to additional settings > developer settings, turn on the OEM unlock opti
 Step 2:
 [I assume you have already downloaded the PA image itself, the .zip one]
 Now, I will ask you to update to OxygenOS 13 via OTA, or 14 would be healthier :) regardless of the intermediate version. 
+
 Then download the firmware suitable for your device from the #firmware-flasher note in the group, and reboot to the bootloader, i.e., fastboot again. 
+
 Extract the downloaded firmware to the desktop, open it as a folder, you will find many files, find and run the Update-firmware.bat file, and update your modem by typing yes, unless necessary (T-Mobile & China). It will do some magic and automatically reboot the bootloader. 
 Then, open the command prompt in the platform-tools folder, type `fastboot update [drag and drop the PA image]`, and press enter.
 
