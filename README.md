@@ -10,7 +10,8 @@ Note: please feel free to ask for help in the telegram group we wont blame we ar
 -[Already unlocked bootloader can follow directly step 2]
 
 Step 1; 
-Identify which region your device is from 
+Identify which region your device is from via going to device info
+
 LE2XX0 = China
 
 LE2XX1 = India
