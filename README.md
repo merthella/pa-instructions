@@ -6,6 +6,7 @@ Note: please feel free to ask for help in the telegram group we wont blame we ar
 
 
 -How to unlock locked bootloader (you can skip this if you have an unlocked bootloader)
+
 -[Already unlocked bootloader can follow directly step 2]
 
 Step 1; 
