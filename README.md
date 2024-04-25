@@ -23,12 +23,15 @@ LE2XX5 = North America
 LE2XX7 = T-mobile
 
 Except for t-mobile, you need to open the developer settings 
-Settings > Device info > Version > Tap 3 times build number and voila the developer settings are open congratulations! 
+Settings > Device info > Version > Tap 3 times build number and voila the developer settings are open congratulations!
+ 
 Now go to additional settings > developer settings, turn on the oem unlock option and confirm (if your device is grayed out, it's probably either a t-mobile device or you never connected it to the internet)
 
 [Chapter 1.2]
 -> Download and extract platform-tools: https://developer.android.com/tools/releases/platform-tools
+
 -> Install Google Bootloader Interface driver via this link: https://developer.android.com/studio/run/win-usb (right click inf and press install.)
+
 -> Reboot to bootloader a.k.a fastboot via pressing all buttons when device is turned off. 
 -> Checkout device manager and if needed manually select driver to unknown device > Android > Android Bootloader Interface.
 -> Open command prompt in platform-tools folder and type: fastboot oem unlock [ this sould showing up screen on your device press yes. WARNING! THIS WILL EREASE YOUR DATA AND THERE IS NO COMING BACK!]
