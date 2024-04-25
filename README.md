@@ -1,4 +1,3 @@
-Of course, here's the revised text:
 
 ---
 
