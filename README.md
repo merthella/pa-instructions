@@ -33,14 +33,19 @@ Now go to additional settings > developer settings, turn on the oem unlock optio
 -> Install Google Bootloader Interface driver via this link: https://developer.android.com/studio/run/win-usb (right click inf and press install.)
 
 -> Reboot to bootloader a.k.a fastboot via pressing all buttons when device is turned off. 
+
 -> Checkout device manager and if needed manually select driver to unknown device > Android > Android Bootloader Interface.
+
 -> Open command prompt in platform-tools folder and type: fastboot oem unlock [ this sould showing up screen on your device press yes. WARNING! THIS WILL EREASE YOUR DATA AND THERE IS NO COMING BACK!]
 
 #T-Mobile (this damm thing is little bit complicated feel free to ask help on group chat)
+-
 Without risk + unlocked sim [waiting 40 days blah blah.] maybe they dont unlock idk, you can follow this guide: https://xdaforums.com/t/how-to-unlock-the-t-mobile-bootloader.4256319/ <3
-
+-
 With risk [changing region via modded msm tool]: 9 - https://xdaforums.com/t/convert-t-mobile-oneplus-9-to-global-or-other-firmware.4277169/page-3#post-85143501 
+-
 9Pro - https://xdaforums.com/t/convert-your-t-mobile-le2127-to-eu-via-msm-no-unlock-bin-needed.4272837/
+-
 And follow the same thing as [Chapter 1.2]  <3
 
 
