@@ -4,7 +4,8 @@
 # PA Installation Instructions
 
 Hey there!
-I'm here to guide you through installing PA on your OnePlus 9 & 9Pro. The main requirements are a personal computer, a little patience, and a cup of coffee. 
+I'm here to guide you through installing PA on your OnePlus 9 & 9Pro. 
+The main requirements are a personal computer, a little patience, and a cup of coffee. 
 Note: Feel free to ask for help in the Telegram group; we won't blame you, we're a family <3
 
 ## How to Unlock the Bootloader (You can skip this if you have an unlocked bootloader)
