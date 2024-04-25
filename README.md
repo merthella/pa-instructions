@@ -12,9 +12,13 @@ Note: please feel free to ask for help in the telegram group we wont blame we ar
 Step 1; 
 Identify which region your device is from 
 LE2XX0 = China
+
 LE2XX1 = India
+
 LE2XX3 = Europe
+
 LE2XX5 = North America
+
 LE2XX7 = T-mobile
 
 Except for t-mobile, you need to open the developer settings 
